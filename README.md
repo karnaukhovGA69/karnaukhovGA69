@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет, я Глеб 👋
 
-<!--
-**karnaukhovGA69/karnaukhovGA69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-разработчик, которому нравятся чистая архитектура и алгоритмы.  
+Пишу на **Go**, читаю статьи и строю системы, которые не падают в три ночи.
 
-Here are some ideas to get you started:
+## 🔧 Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Основной:** Go · PostgreSQL · REST · Docker  
+**Знаю также:** C# · SQL  
+**Изучаю:** распределённые системы · проектирование алгоритмов
+
+## 📌 Проекты
+
+| Проект | Описание |
+|---|---|
+| [HW3_KPO](https://github.com/karnaukhovGA69/HW3_KPO) | Антиплагиат на микросервисах — Go, PostgreSQL, Docker Compose |
+| [HW1_KPO](https://github.com/karnaukhovGA69/HW1_KPO) | ERP-система зоопарка — SOLID, DI (uber/dig), чистая архитектура |
+
+## 📖 Интересы
+
+- Алгоритмы и структуры данных
+- Проектирование backend-систем
+- Научные статьи (CS, распределённые системы)
+
+## 📫 Связаться
+
+<!-- Telegram / email / LinkedIn -->
