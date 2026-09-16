@@ -8,7 +8,7 @@
   <a href="https://github.com/karnaukhovGA69?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
-**Go/C++ Developer. Go is my primary language.** I build backend services, APIs and integrations. Previously interned at **Yandex** with the **Yandex Pro · Driver Online / Orders** team. Studying Software Engineering at **HSE University**.
+**Go/C++ Developer. Go is my primary language.** I build backend services, APIs and integrations. Previously interned at **Yandex** with the **Yandex Pro · Driver Online / Orders** team. Studying **Software Engineering (SWE)** at **HSE University**.
 
 ### Experience · Yandex
 
@@ -25,16 +25,11 @@
   <img src="https://skillicons.dev/icons?i=go%2Ccpp%2Cpostgres%2Ckafka%2Crabbitmq%2Cdocker&amp;theme=dark" width="328" alt="Go, C++, PostgreSQL, Kafka, RabbitMQ, Docker" />
 </picture>
 
-**Go** · C++ · PostgreSQL · Kafka · RabbitMQ · Docker
+![Go](https://img.shields.io/badge/Go-0969DA?style=flat-square) ![C++](https://img.shields.io/badge/C%2B%2B-0969DA?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0969DA?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-0969DA?style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0969DA?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-0969DA?style=flat-square)
 
-REST · gRPC / Protobuf · WebSocket · SQL · Git · CI/CD
+![REST](https://img.shields.io/badge/REST-0969DA?style=flat-square) ![gRPC / Protobuf](https://img.shields.io/badge/gRPC%20%2F%20Protobuf-0969DA?style=flat-square) ![WebSocket](https://img.shields.io/badge/WebSocket-0969DA?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-0969DA?style=flat-square) ![Git](https://img.shields.io/badge/Git-0969DA?style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-0969DA?style=flat-square)
 
-<details>
-<summary>Other technologies</summary>
-
-Python, Lua, userver, AppHost, YTsaurus, pytest, unit testing.
-
-</details>
+![Python](https://img.shields.io/badge/Python-0969DA?style=flat-square) ![Lua](https://img.shields.io/badge/Lua-0969DA?style=flat-square) ![userver](https://img.shields.io/badge/userver-0969DA?style=flat-square) ![AppHost](https://img.shields.io/badge/AppHost-0969DA?style=flat-square) ![YTsaurus](https://img.shields.io/badge/YTsaurus-0969DA?style=flat-square) ![pytest](https://img.shields.io/badge/pytest-0969DA?style=flat-square) ![Unit testing](https://img.shields.io/badge/Unit%20testing-0969DA?style=flat-square)
 
 ### Selected Projects
 
@@ -48,16 +43,16 @@ Learning projects and take-home assignments in Go.
 
 ### Education
 
-**HSE University** · Software Engineering · Bachelor's degree programme · 2024–present.
+**HSE University** · Bachelor's degree programme · **2024–2028**
 
-<details>
-<summary>Courses &amp; Languages</summary>
+![SWE · Software Engineering](https://img.shields.io/badge/SWE%20%C2%B7%20Software%20Engineering-0969DA?style=flat-square)
+
+### Courses & Languages
 
 - **VK Education** — Web Service Development with Go.
 - **Yandex Lyceum** — Microservice Development with Go; Go-1, Go-2, Go-3.
-- **English** — Upper-intermediate (B2).
 
-</details>
+![English · B2](https://img.shields.io/badge/English%20%C2%B7%20B2-0969DA?style=flat-square) **Upper-intermediate**
 
 ### Contribution Trail
 
