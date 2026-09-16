@@ -1,59 +1,59 @@
 <picture>
-  <img src="./profile-header.svg" width="100%" alt="Глеб Карнаухов — Go/C++ Developer. Основной язык — Go." />
+  <img src="./profile-header.svg" width="100%" alt="Gleb Karnaukhov — Go/C++ Developer. Go is my primary language." />
 </picture>
 
 <p align="center">
   <a href="https://t.me/KarnaukhovGA"><strong>Telegram</strong></a> &nbsp; / &nbsp;
-  <a href="mailto:karnaukhovglebwork@gmail.com"><strong>Почта</strong></a> &nbsp; / &nbsp;
-  <a href="https://github.com/karnaukhovGA69?tab=repositories"><strong>Репозитории</strong></a>
+  <a href="mailto:karnaukhovglebwork@gmail.com"><strong>Email</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/karnaukhovGA69?tab=repositories"><strong>Repositories</strong></a>
 </p>
 
-**Go/C++ Developer. Go — основной язык.** Разрабатываю backend-сервисы, API и интеграции. Стажировался в **Яндексе**, в команде **Яндекс Про · Driver Online / Orders**. Учусь на программной инженерии в **НИУ ВШЭ**.
+**Go/C++ Developer. Go is my primary language.** I build backend services, APIs and integrations. Previously interned at **Yandex** with the **Yandex Pro · Driver Online / Orders** team. Studying Software Engineering at **HSE University**.
 
-### Опыт · Яндекс
+### Experience · Yandex
 
-- Проектировал и разрабатывал API для взаимодействия сервисов.
-- Разрабатывал сценарии работы сервисов через динамические конфигурации.
-- Переписывал legacy-сервис с переносом функциональности в новые сервисы.
-- Повышал безопасность и отказоустойчивость сервиса уровня **Tier-A**.
-- Разработал на **Go** восстановление истории партнёрских заказов: события из YTsaurus, очередь задач и интеграция с админкой поддержки.
+- Designed and implemented APIs for service-to-service communication.
+- Developed service workflows controlled through dynamic configuration.
+- Reworked a legacy service by migrating its functionality into new services.
+- Improved the security and resilience of a **Tier-A** service.
+- Built a **Go** tool to reconstruct partner order history using events from YTsaurus, background task processing and integration with support tools.
 
-### Основной стек
+### Core Stack
 
 **Go** · C++ · PostgreSQL · Kafka · RabbitMQ · Docker
 
 REST · gRPC / Protobuf · WebSocket · SQL · Git · CI/CD
 
 <details>
-<summary>Другие технологии</summary>
+<summary>Other technologies</summary>
 
-Python, Lua, userver, AppHost, YTsaurus, pytest, unit-тесты.
+Python, Lua, userver, AppHost, YTsaurus, pytest, unit testing.
 
 </details>
 
-### Избранные проекты
+### Selected Projects
 
-Учебные проекты и тестовые задания на Go.
+Learning projects and take-home assignments in Go.
 
-| Проект | Что внутри |
+| Project | Highlights |
 | :--- | :--- |
-| **[Платёжная система ↗](https://github.com/karnaukhovGA69/HW4_KPO)**<br/><sub>Go · PostgreSQL · RabbitMQ</sub> | Сервисы Orders и Payments, отдельные базы данных, Transactional Outbox / Inbox, идемпотентная обработка сообщений и статусы заказов через WebSocket. |
-| **[Поисковые тренды ↗](https://github.com/karnaukhovGA69/WB_Test_Task)**<br/><sub>Go · Kafka · gRPC · Prometheus</sub> | Популярные запросы за последние пять минут: поток событий из Kafka, скользящее окно, кэш Top-N, динамический стоп-лист и метрики. |
-| **[Антиплагиат ↗](https://github.com/karnaukhovGA69/HW3_KPO)**<br/><sub>Go · PostgreSQL · REST</sub> | Три сервиса — Storage, Analysis и Gateway. Хранение работ и отчётов в отдельных базах, объединение ответов через API Gateway. |
+| **[Payment System ↗](https://github.com/karnaukhovGA69/HW4_KPO)**<br/><sub>Go · PostgreSQL · RabbitMQ</sub> | Orders and Payments services with separate databases, Transactional Outbox / Inbox, idempotent message processing and order status updates via WebSocket. |
+| **[Search Trends ↗](https://github.com/karnaukhovGA69/WB_Test_Task)**<br/><sub>Go · Kafka · gRPC · Prometheus</sub> | Popular search queries over a five-minute sliding window: Kafka event ingestion, a Top-N cache, a dynamic stop list and metrics. |
+| **[Plagiarism Analysis ↗](https://github.com/karnaukhovGA69/HW3_KPO)**<br/><sub>Go · PostgreSQL · REST</sub> | Three services: Storage, Analysis and Gateway. Separate databases for submissions and reports, with responses aggregated through an API Gateway. |
 
-### Образование
+### Education
 
-**НИУ ВШЭ** · Программная инженерия · Бакалавриат · 2024 — настоящее время.
+**HSE University** · Software Engineering · Bachelor's degree programme · 2024–present.
 
 <details>
-<summary>Курсы и английский</summary>
+<summary>Courses &amp; Languages</summary>
 
-- **VK Education** — «Разработка веб-сервисов на Go».
-- **Яндекс Лицей** — разработка микросервисов на Go; Go-1, Go-2, Go-3.
-- **Английский** — Intermediate (B1).
+- **VK Education** — Web Service Development with Go.
+- **Yandex Lyceum** — Microservice Development with Go; Go-1, Go-2, Go-3.
+- **English** — Upper-intermediate (B2).
 
 </details>
 
 ---
 
-<sub>Интересуюсь надёжностью сервисов, распределёнными системами, асинхронной обработкой событий и алгоритмами.</sub>
+<sub>Interested in service reliability, distributed systems, asynchronous event processing and algorithms.</sub>
