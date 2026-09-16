@@ -1,90 +1,59 @@
-<div align="center">
-<table width="100%">
-<tr>
-<td width="64%" valign="middle" align="left">
-<h1>Глеб Карнаухов</h1>
-<h2>Go/C++ Developer</h2>
-<p><strong>Основной язык — Go.</strong> Разрабатываю backend-сервисы, API и интеграции.</p>
-<p>Стажировался в <strong>Яндексе</strong> как backend-разработчик в команде <strong>Яндекс Про · Driver Online / Orders</strong>. Учусь на программной инженерии в <strong>НИУ ВШЭ</strong>.</p>
-<p><a href="https://t.me/KarnaukhovGA">Telegram</a> · <a href="mailto:karnaukhovglebwork@gmail.com">Почта</a> · <a href="https://github.com/karnaukhovGA69?tab=repositories">Репозитории</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;color=1&amp;v=recruiter-portrait-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;color=1&amp;v=recruiter-portrait-1&amp;mode=dark" width="240px" alt="Анимированный ASCII-портрет Глеба Карнаухова" />
+  <img src="./profile-header.svg" width="100%" alt="Глеб Карнаухов — Go/C++ Developer. Основной язык — Go." />
 </picture>
-</td>
-</tr>
-</table>
-</div>
 
-## Опыт
+<p align="center">
+  <a href="https://t.me/KarnaukhovGA"><strong>Telegram</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:karnaukhovglebwork@gmail.com"><strong>Почта</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/karnaukhovGA69?tab=repositories"><strong>Репозитории</strong></a>
+</p>
 
-В Яндексе работал над надёжностью сервисов и интеграциями:
+**Go/C++ Developer. Go — основной язык.** Разрабатываю backend-сервисы, API и интеграции. Стажировался в **Яндексе**, в команде **Яндекс Про · Driver Online / Orders**. Учусь на программной инженерии в **НИУ ВШЭ**.
+
+### Опыт · Яндекс
 
 - Проектировал и разрабатывал API для взаимодействия сервисов.
-- Разрабатывал сценарии работы сервисов и настраивал их через динамические конфигурации.
+- Разрабатывал сценарии работы сервисов через динамические конфигурации.
 - Переписывал legacy-сервис с переносом функциональности в новые сервисы.
-- Повышал безопасность и отказоустойчивость сервиса уровня Tier-A.
-- Разработал на Go восстановление истории партнёрских заказов: события из YTsaurus, фоновая обработка через очередь задач и интеграция с админкой поддержки.
+- Повышал безопасность и отказоустойчивость сервиса уровня **Tier-A**.
+- Разработал на **Go** восстановление истории партнёрских заказов: события из YTsaurus, очередь задач и интеграция с админкой поддержки.
 
-## Стек
+### Основной стек
 
-| Область | Технологии |
-| --- | --- |
-| Языки | **Go — основной**, C++, Python, Lua |
-| API и backend | REST, gRPC, Protobuf, WebSocket, userver, AppHost |
-| Данные и очереди | PostgreSQL, SQL, RabbitMQ, Kafka, YTsaurus |
-| Инструменты и тестирование | Docker, Git, pytest, unit-тесты, CI/CD |
+**Go** · C++ · PostgreSQL · Kafka · RabbitMQ · Docker
 
-## Избранные проекты
+REST · gRPC / Protobuf · WebSocket · SQL · Git · CI/CD
+
+<details>
+<summary>Другие технологии</summary>
+
+Python, Lua, userver, AppHost, YTsaurus, pytest, unit-тесты.
+
+</details>
+
+### Избранные проекты
 
 Учебные проекты и тестовые задания на Go.
 
-### [Платёжная система](https://github.com/karnaukhovGA69/HW4_KPO)
+| Проект | Что внутри |
+| :--- | :--- |
+| **[Платёжная система ↗](https://github.com/karnaukhovGA69/HW4_KPO)**<br/><sub>Go · PostgreSQL · RabbitMQ</sub> | Сервисы Orders и Payments, отдельные базы данных, Transactional Outbox / Inbox, идемпотентная обработка сообщений и статусы заказов через WebSocket. |
+| **[Поисковые тренды ↗](https://github.com/karnaukhovGA69/WB_Test_Task)**<br/><sub>Go · Kafka · gRPC · Prometheus</sub> | Популярные запросы за последние пять минут: поток событий из Kafka, скользящее окно, кэш Top-N, динамический стоп-лист и метрики. |
+| **[Антиплагиат ↗](https://github.com/karnaukhovGA69/HW3_KPO)**<br/><sub>Go · PostgreSQL · REST</sub> | Три сервиса — Storage, Analysis и Gateway. Хранение работ и отчётов в отдельных базах, объединение ответов через API Gateway. |
 
-Два сервиса — Orders и Payments — с отдельными базами PostgreSQL и асинхронным обменом через RabbitMQ. Transactional Outbox / Inbox, идемпотентная обработка сообщений и обновление статуса заказа через WebSocket.
+### Образование
 
-**Go · PostgreSQL · RabbitMQ · WebSocket · Docker**
+**НИУ ВШЭ** · Программная инженерия · Бакалавриат · 2024 — настоящее время.
 
-### [Сервис поисковых трендов](https://github.com/karnaukhovGA69/WB_Test_Task)
+<details>
+<summary>Курсы и английский</summary>
 
-Обработка поисковых событий из Kafka и выдача популярных запросов за последние пять минут через gRPC. Скользящее окно, кэширование Top-N, динамический стоп-лист и метрики Prometheus. Тестовое задание.
-
-**Go · Kafka · gRPC · Protobuf · Prometheus · Docker**
-
-### [Антиплагиат](https://github.com/karnaukhovGA69/HW3_KPO)
-
-Учебный проект из трёх сервисов: Storage, Analysis и Gateway. Хранение работ и отчётов в отдельных базах PostgreSQL, объединение ответов сервисов через API Gateway.
-
-**Go · PostgreSQL · REST · Docker**
-
-## Образование
-
-- **НИУ ВШЭ** — программная инженерия, бакалавриат, 2024 — настоящее время.
 - **VK Education** — «Разработка веб-сервисов на Go».
 - **Яндекс Лицей** — разработка микросервисов на Go; Go-1, Go-2, Go-3.
+- **Английский** — Intermediate (B1).
 
-Английский — Intermediate (B1).
+</details>
 
-## Интересы
+---
 
-Надёжность backend-сервисов, распределённые системы, асинхронная обработка событий, алгоритмы и структуры данных.
-
-## Активность на GitHub
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;v=recruiter-stats-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;v=recruiter-stats-1&amp;mode=dark" width="100%" alt="Статистика GitHub — karnaukhovGA69" />
-</picture>
-</p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=karnaukhovga69&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F181142771%3Fu%3Da150e9a10008181c7c2a2515cb545a5d8beb4ead%26v%3D4&amp;v=recruiter-heatmap-1&amp;mode=dark" width="100%" alt="График активности GitHub — karnaukhovGA69" />
-</picture>
-</p>
-
-<p align="center"><sub>Визуальные блоки — <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<sub>Интересуюсь надёжностью сервисов, распределёнными системами, асинхронной обработкой событий и алгоритмами.</sub>
