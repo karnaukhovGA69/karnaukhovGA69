@@ -20,6 +20,11 @@
 
 ### Core Stack
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go%2Ccpp%2Cpostgres%2Ckafka%2Crabbitmq%2Cdocker&amp;theme=light" />
+  <img src="https://skillicons.dev/icons?i=go%2Ccpp%2Cpostgres%2Ckafka%2Crabbitmq%2Cdocker&amp;theme=dark" width="328" alt="Go, C++, PostgreSQL, Kafka, RabbitMQ, Docker" />
+</picture>
+
 **Go** · C++ · PostgreSQL · Kafka · RabbitMQ · Docker
 
 REST · gRPC / Protobuf · WebSocket · SQL · Git · CI/CD
@@ -53,6 +58,13 @@ Learning projects and take-home assignments in Go.
 - **English** — Upper-intermediate (B2).
 
 </details>
+
+### Contribution Trail
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karnaukhovGA69/karnaukhovGA69/profile-assets/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/karnaukhovGA69/karnaukhovGA69/profile-assets/github-snake.svg" width="100%" alt="Animated snake following my GitHub contributions" />
+</picture>
 
 ---
 
